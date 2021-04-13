@@ -5,6 +5,7 @@
 - I'm the **Co-founder and CEO** of [**Gratsi**](https://www.gratsi.io/) - A platform for contactless tipping and gratuity: making showing your thanks to key service workers possible in a cashless world.
 - 🔭 My current side projects are:
   - [**Skillet**](https://www.skllt.com/) - An iOS app for staff training and management of skill and specialism development. Track who on your team is trained in what, organise shifts based on the skills/experience required, and develop a progression framework to suite your business.
+  - [**Augment**](https://www.withaugment.io/) - The complete hospitality management software. Control the controllables. Manage cash flow, gross profits, staff costs - see how your restaurant, bar, or cafe is operating and make changes based on data. 
   - **Reciplz** - _coming soon_ - An iOS recipe app for storing and sharing your favourite recipes.
 - 🌐 www.jackspargo.com
 - 🧃 I enjoy contributing to open source projects. I've contributed to, or am in the process of contributing to

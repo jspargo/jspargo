@@ -14,4 +14,4 @@
   - [Dependabot](https://github.com/dependabot/dependabot-core) - [#731](https://github.com/dependabot/dependabot-core/pull/731)
 - 🌱 I wrote a paper on [Carbon Capture & Storage](http://www.bath.ac.uk/realisingtransitionpathways/publications/Energy_Conversion_x_Management_86_pp476-489.pdf) in the UK in 2011, which was published in 2014
 - 👯 I’m looking to collaborate on more open source projects
-- 💬 Reach me on [Twitter](https://twitter.com/jackspargo) or email me. My email is my first name dot my last name at gmail dot com. I try to reply to every who gets in touch, and answer any questions that they have to the best of my ability.
+- 💬 Reach me on [Twitter](https://twitter.com/jackspargo) or email me. My email is my first name dot my last name at gmail dot com. I will try to reply to anyone who gets in touch looking for advice, input, or just a chat.

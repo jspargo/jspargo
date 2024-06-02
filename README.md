@@ -2,7 +2,7 @@
 
 ### I'm Jack Spargo
 
-- I'm the **CTO** at [Ctrl Alt](https://www.ctrl-alt.co) – we're hiring Software Engineers - check out our open roles [here](https://shadow-derby-aa9.notion.site/Careers-at-Ctrl-Alt-ee486c4ba3ea47178a4dc3d5e4b2a6e5) 
+- I'm the **CTO** at [Ctrl Alt](https://www.ctrl-alt.co) – we're hiring Software Engineers - check out our open roles [here](https://careers-at-ctrl-alt.notion.site/Careers-at-Ctrl-Alt-ee486c4ba3ea47178a4dc3d5e4b2a6e5) 
 - I'm the former **CTO** at [Strikepay](https://www.strikepay.co), founder of [Gratsi](https://www.gratsi.io/) (acquired by Strikepay in June 2021). 
 - 🔭 My current side projects are:
   - [**Skillet**](https://www.skllt.com/) - An iOS app for staff training and management of skill and specialism development. Track who on your team is trained in what, organise shifts based on the skills/experience required, and develop a progression framework to suite your business.
